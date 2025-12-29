@@ -1,5 +1,5 @@
 ---
-title: "Git : Pourquoi et comment utiliser --allow-empty"
+title: "Git : Pourquoi et comment utiliser allow-empty"
 date: 2025-12-29 12:00:00 +0100
 categories: [Git]
 tags: [git, tips]
