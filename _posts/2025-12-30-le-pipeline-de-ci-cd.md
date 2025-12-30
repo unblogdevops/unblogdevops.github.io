@@ -1,6 +1,6 @@
 ---
 title: "LE pipeline de CI/CD"
-date: 2025-12-30 12:00:00 +0100
+date: 2025-12-30 08:00:00 +0100
 categories: [DevOps]
 tags: [devops, ci, humour]
 ---
