@@ -13,11 +13,12 @@ Dans le domaine de la CI/CD, et notamment pour les utilisateurs de GitLab, on em
 
 Mais si nos collègues anglo-saxons ne s'embarrassent pas du genre, pour nous autres Français, il faut trancher !
 
-Alors… *Un* ou *une* pipeline ?
+Alors… **Un ou une pipeline ?**
 
 Le mot pipeline existe en français et est référencé dans le dictionnaire de l’Académie Française.
 
 > xixe siècle, au féminin ; xxe siècle, au masculin. Emprunté de l’anglais pipe-line, lui-même composé de pipe, « tuyau », et line, « ligne ».
+>
 > Canalisation servant à transporter des fluides sur de longues distances. Oléoducs et gazoducs sont deux sortes de pipeline.
 
 Même si le sens informatique n’est pas mentionné ici, il y a peu de doute sur la filiation : nos flux de données circulent comme dans un tuyau.
